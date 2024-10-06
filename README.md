@@ -1,2 +1,2 @@
 # SV-Project---Synchronous-FIFO
-Project Description above.
+In This project I am tasked with verifying the functionality of a FIFO verilog design code. This was accomplished through the use of multiple packages and classes responsible for constraining the randomization of Inputs, sampling the signals to check for the functional coverage and to compare the output signals with a refrence model, and monitoring the signals to know the details about a failed operation.
